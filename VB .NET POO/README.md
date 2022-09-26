@@ -10,7 +10,7 @@ Module VBModule
   
 End Module
  ```
-Explicación:
+###### Explicación:
 
 > **Module VBModule**: Le dice a la computadora que esta parte del programa VB es llamdo VBModule.
  
@@ -24,6 +24,7 @@ ver el resultado de salida. De lo contrario, el resultado de salida se omitirá.
 > **End Sub** define el final de la sección de código principal.
 
 > **End Module** define el final de este programa VB.
+> Los comentarios se inician con '
 
 #### Crear un objeto(Instanciación de objetos)
 
