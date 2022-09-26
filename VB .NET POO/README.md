@@ -142,7 +142,7 @@ VB tiene dos categorías de tipos de datos:
 - Tipos de valores: enteros, números, decimales, caracteres, booleanos
 - Tipos de referencia: objeto, cadena
 
-![Tipos de datos](/images/dataType.png)
+![Tipos de datos](images/dataType.png)
 
 
 
