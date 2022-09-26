@@ -13,11 +13,16 @@ End Module
 Explicación:
 
 > **Module VBModule**: Le dice a la computadora que esta parte del programa VB es llamdo VBModule.
+> 
 **Sub Main()**: Define una función principal que se ejecuta primero. Este es un método principal que es el punto de entrada para ejecutar el programa Visual Basic.
+
 **Console.WriteLine()** : Este es un método para mostrar el resultado de salida.
+
 **Console.ReadLine()**: Este es un método para pausar la pantalla y se asegura de
-ver el resultado de salida. De lo contrario, el resultado de salida se omitirá
+ver el resultado de salida. De lo contrario, el resultado de salida se omitirá.
+
 **End Sub** define el final de la sección de código principal.
+
 **End Module** define el final de este programa VB.
 
 #### Crear un objeto(Instanciación de objetos)
