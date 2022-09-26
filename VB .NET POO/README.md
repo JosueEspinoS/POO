@@ -136,3 +136,28 @@ Public Class Cliente
     End Sub
 End Class
 ```
+
+#### Tipo de Datos
+VB tiene dos categorías de tipos de datos:
+- Tipos de valores: enteros, números, decimales, caracteres, booleanos
+- Tipos de referencia: objeto, cadena
+
+![Tipos de datos](/images/dataType.png)
+
+
+
+#### Variables
+Una variable es un contenedor que contiene valores que se utilizan en un programa de VB, una
+variable representa una ubicación de almacenamiento escrita.
+```
+Dim variable As dataType = value
+```
+
+“**Dim** variable **As** dataType = value” se utiliza para definir una variable y su valor.
+
+**Ejemplo**:
+```
+Dim name As String = Smith
+Dim age As Integer = 16
+Dim b As Boolean = true
+```
