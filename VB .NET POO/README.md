@@ -1,4 +1,4 @@
-Guía Rápida Visual Basic
+# Guía Rápida Visual Basic
 ####  Primer programa con VB
  ```
 Module VBModule 
