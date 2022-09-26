@@ -24,7 +24,9 @@ ver el resultado de salida. De lo contrario, el resultado de salida se omitirá.
 > **End Sub** define el final de la sección de código principal.
 
 > **End Module** define el final de este programa VB.
-> Los comentarios se inician con '
+
+> Los comentarios se establecen utilizando **'** 
+
 
 #### Crear un objeto(Instanciación de objetos)
 
